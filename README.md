@@ -17,6 +17,13 @@ Please, remember that it is not intended to be an hyper-fancied and very-well ar
 
 Anyway, __SecureDebate__ implements a simple communication protocol and a well-defined classical client-server architecture.
 
+### Communication Protocol
+
+![Protocol](https://github.com/alessiodm/securedebate/blob/master/docs/protocol.jpg)
+
+### Implementation
+
+![Implementation](https://github.com/alessiodm/securedebate/blob/master/docs/comm.jpg)
 
 
 ## LICENSE - "MIT License"
