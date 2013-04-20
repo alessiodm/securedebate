@@ -19,11 +19,11 @@ Anyway, __SecureDebate__ implements a simple communication protocol and a well-d
 
 ### Communication Protocol
 
-![Protocol](https://github.com/alessiodm/securedebate/blob/master/docs/protocol.jpg)
+![Protocol](https://raw.github.com/alessiodm/securedebate/master/docs/protocol.jpg)
 
 ### Implementation
 
-![Implementation](https://github.com/alessiodm/securedebate/blob/master/docs/comm.jpg)
+![Implementation](https://raw.github.com/alessiodm/securedebate/master/docs/comm.jpg)
 
 
 ## LICENSE - "MIT License"
