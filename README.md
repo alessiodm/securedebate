@@ -1,7 +1,6 @@
 SecureDebate
 ============
 
-PKI mutual authentication for secure multi-chat client-server application.
 __SecureDebate__ is a simple *academic project* for showing how to create a secure multi-chat client-server application with PKI mutual authentication.
 
 ## Give It a Try
